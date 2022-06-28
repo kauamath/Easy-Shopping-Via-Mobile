@@ -9,7 +9,7 @@
  
  <img src="https://github.com/kauamath/Projeto-Easy-Shopping-Via-Mobile/blob/master/assets/desktop.png?raw=true">
  
- <h2>📱Esse projeto aprendi também a respeito de responsividade  </h2><br>
+ <h2>📱Nesse projeto aprendi também a respeito de responsividade  </h2><br>
 
  
  <img src="https://github.com/kauamath/Projeto-Easy-Shopping-Via-Mobile/blob/master/assets/mobile.png?raw=true">
